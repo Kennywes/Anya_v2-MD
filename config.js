@@ -8,16 +8,16 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Qᴜᴇᴇɴ ᴀɴʏᴀ ᴠ2",
+    botname: process.env.BotName || "𓄂⍣⃝𝐆𝚯𝐃🌹✮͢≛⃝𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🪽𝄟✮⃝👑",
     footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐁𝐨𝐭",
-    prefa: process.env.Prefix || "-",
+    prefa: process.env.Prefix || ">",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "𓄂⍣⃝𝐆𝚯𝐃🌹✮͢≛⃝𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🪽𝄟✮⃝👑",
+    ownernumber: process.env.Owner_Number || "50932589537",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
